@@ -17,3 +17,5 @@ choco install ffmpeg
 
 on Windows using Scoop (https://scoop.sh/)
 scoop install ffmpeg
+
+# 此專案為轉換m4a檔案至src字幕檔案用
