@@ -1,8 +1,8 @@
-# ¦w¸Ëwhisper
+ï»¿# å®‰è£whisper
 pip install -U openai-whisper
 
 
-# ®Ú¾Ú¨t²Î¦w¸Ëffmpeg
+# æ ¹æ“šç³»çµ±å®‰è£ffmpeg
 on Ubuntu or Debian
 sudo apt update && sudo apt install ffmpeg
 
